@@ -47,18 +47,20 @@ It integrates multiple OSINT tools into a single threaded engine for recon and b
 \## 📦 Installation
 
 
+1)sudo apt install subfinder assetfinder findomain httpx curl
+git clone https://github.com/aboul3la/Sublist3r.git
 
-Clone the repo:
 
-
+2)Clone the repo:
 
 ```bash
 
-git clone https://github.com/YOUR\_USERNAME/subenumerator.git
+git clone https://github.com/sr33jih/subenumerator.git
 
 cd subenumerator
 
 pip install -r requirements.txt
+
 
 
 
